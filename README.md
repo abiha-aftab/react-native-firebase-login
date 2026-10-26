@@ -1,3 +1,5 @@
+> **About:** based on Instamobile's React Native Firebase starter: Expo app with Firebase email/password auth, persisted login, stack navigation and Firestore reads/writes.
+
 # React Native Firebase
 
 This is a React Native Firebase Starter Project with login, registration, persisted login, database reads and writes. You can use this project as boilerplate for bootstrapping any new React Native app that uses Firebase as its backend.
